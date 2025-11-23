@@ -62,9 +62,21 @@ Download the complete dataset from:
 - **Validation**: 5-fold cross-validation
 
 ### Preprocessing Pipeline
-```python
 1. MediaPipe Hand Landmark Extraction
 2. Coordinate Normalization
 3. Feature Vector Construction
 4. Data Augmentation
 5. Train-Test Split (80-20)
+
+
+MultiLingual-Sign-Detection/
+├── models/                 # Download from Google Drive
+├── images/                # Interface screenshots
+├── Vmamba_detector_main.py
+├── random_forest_detector.py
+├── bilstm_detector.py
+├── cnn_detector.py
+└── README.md
+
+
+
