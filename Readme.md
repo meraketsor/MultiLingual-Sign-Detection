@@ -22,7 +22,7 @@ This research presents a comprehensive comparative analysis of Vision Mamba (VMa
 
 ![Sign Language Recognition Interface](images/interface.png)
 
-*Real-time sign language recognition interface showing Turkish Sign Language detection*
+*Real-time sign language recognition interface showing American Sign Language (ASL) detection*
 
 ## 📁 Download Resources
 
