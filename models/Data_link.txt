@@ -1,0 +1,8 @@
+The trained models should be in this folder. At the same time, you should update model paths in the scripts.
+According to the trained model file size are too big,
+ you can execute them by downloading 
+via 
+
+
+
+https://drive.google.com/drive/folders/141_wQe-TPp6tVFVTZmenO10VMpba2J1-?usp=sharing

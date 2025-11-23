@@ -1,0 +1,8 @@
+data_v1 folder is the main dataset folder for the project. Moreover, you should update data paths in the scripts.
+
+According to the dataset is too big, you can download dataset via https://drive.google.com/drive/folders/162fJ1nPdBZfOexLC-RbfYPoecpGO1pSO?usp=sharing
+
+
+
+DATASET DOWNLOAD LINK:
+https://drive.google.com/drive/folders/162fJ1nPdBZfOexLC-RbfYPoecpGO1pSO?usp=sharing
