@@ -69,14 +69,6 @@ Download the complete dataset from:
 5. Train-Test Split (80-20)
 
 
-MultiLingual-Sign-Detection/
-├── models/                 # Download from Google Drive
-├── images/                # Interface screenshots
-├── Vmamba_detector_main.py
-├── random_forest_detector.py
-├── bilstm_detector.py
-├── cnn_detector.py
-└── README.md
 
 
 
