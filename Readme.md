@@ -1,4 +1,4 @@
-# A Cross-Lingual Analysis of MediaPipe-Based Sign Language Recognition: Evaluating Performance on Turkish, Arabic, and American Sign Languages
+# Pose-Based Static Sign Language Recognition with DL for Turkish, Arabic, and American Sign Languages
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0%2B-orange)
@@ -8,14 +8,14 @@
 
 ## 📊 Abstract
 
-This research presents a comprehensive comparative analysis of Vision Mamba (VMamba) against traditional and deep learning models for real-time sign language recognition across three distinct sign languages: Turkish (TSL), Arabic (ArSL), and American (ASL). Leveraging MediaPipe for robust hand landmark extraction, we evaluate eight machine learning algorithms to establish benchmark performance metrics in cross-lingual gesture recognition.
+This research presents a comprehensive comparative analysis of Vision Mamba (VMamba) against  other two deep learning models (Swin Transformer - ConvNeXt) for real-time sign language recognition across three distinct sign languages: Turkish (TSL), Arabic (ArSL), and American (ASL). Leveraging MediaPipe for robust hand landmark extraction, we evaluate 3 deep learning algorithms to establish benchmark performance metrics in cross-lingual gesture recognition.
 
 ## 🎯 Key Contributions
 
 - **First comprehensive evaluation** of Vision Mamba for sign language recognition
 - **Cross-lingual performance analysis** across TSL, ArSL, and ASL
 - **Real-time implementation** with MediaPipe hand tracking
-- **Comparative study** of 8 machine learning algorithms
+- **Comparative study** of 3 DL algorithms ( Vmamba - Swin Transformer - ConvNeXt)
 - **Publicly available dataset** and implementation
 
 ## 🖼️ System Interface
@@ -45,13 +45,9 @@ Download the complete dataset from:
 - Enhanced cross-lingual generalization
 
 ### Comparative Models
-1. **CNN** - Convolutional Neural Networks
-2. **Bi-LSTM** - Bidirectional Long Short-Term Memory
-3. **Random Forest** - Ensemble decision trees
-4. **SVM** - Support Vector Machines
-5. **Logistic Regression** - Linear classification
-6. **Decision Tree** - Rule-based classification
-7. **Multinomial NB** - Naive Bayes classifier
+1. **ConvNext** 
+2. **Swin Transformer** 
+
 
 ## 📊 Dataset & Methodology
 
