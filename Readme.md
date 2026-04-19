@@ -6,6 +6,11 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.5%2B-green)
 ![License](https://img.shields.io/badge/license-MIT-brightgreen)
 
+The study is published and please refer to: 
+
+
+Yayla, R., Üçgün, H., & Abbas, M. (2026). Pose-Based Static Sign Language Recognition with Deep Learning for Turkish, Arabic, and American Sign Languages. Sensors, 26(2), 524. https://doi.org/10.3390/s26020524
+
 ## 📊 Abstract
 
 This research presents a comprehensive comparative analysis of Vision Mamba (VMamba) against  other two deep learning models (Swin Transformer - ConvNeXt) for real-time sign language recognition across three distinct sign languages: Turkish (TSL), Arabic (ArSL), and American (ASL). Leveraging MediaPipe for robust hand landmark extraction, we evaluate 3 deep learning algorithms to establish benchmark performance metrics in cross-lingual gesture recognition.
@@ -64,9 +69,6 @@ Download the complete dataset from:
 4. Data Augmentation
 5. Train-Test Split (80-20)
 
-The study is published and Please refer to: 
 
-
-Yayla, R., Üçgün, H., & Abbas, M. (2026). Pose-Based Static Sign Language Recognition with Deep Learning for Turkish, Arabic, and American Sign Languages. Sensors, 26(2), 524. https://doi.org/10.3390/s26020524
 
 
