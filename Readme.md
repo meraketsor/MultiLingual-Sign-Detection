@@ -64,8 +64,9 @@ Download the complete dataset from:
 4. Data Augmentation
 5. Train-Test Split (80-20)
 
+The study is published and Please refer to: 
 
-Please refer to: 
+
 Yayla, R., Üçgün, H., & Abbas, M. (2026). Pose-Based Static Sign Language Recognition with Deep Learning for Turkish, Arabic, and American Sign Languages. Sensors, 26(2), 524. https://doi.org/10.3390/s26020524
 
 
